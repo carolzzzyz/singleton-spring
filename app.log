@@ -1,0 +1,8 @@
+2026-10-27T14:00:00 [DEBUG] Recebida requisição POST /produtos.
+2026-10-27T14:00:00 [DEBUG] Iniciando cadastro de produto.
+2026-10-27T14:00:01 [INFO] Cadastro de produto concluído. ID: 1
+2026-10-27T14:00:01 [INFO] Requisição POST concluída.
+2026-10-27T14:00:05 [DEBUG] Recebida requisição GET /produtos/{id}.
+2026-10-27T14:00:05 [DEBUG] Buscando produto pelo ID: 1
+2026-10-27T14:00:05 [INFO] Produto encontrado. ID: 1
+2026-10-27T14:00:10 [ERRO] Produto não encontrado. ID: 99
